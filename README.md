@@ -21,5 +21,10 @@
    <h3>:coffee: Contato:</h3>
     <p> rodrigo.bertini@gmail.com  </p>
     <p> https://www.linkedin.com/in/rodrigo-bertini-andriani/ </p>
+    
+    
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodx64&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+</div>
 
   
