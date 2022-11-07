@@ -9,7 +9,7 @@
    <p> No momento, estou atuando como desenvolvedor backend nas seguintes tecnologias: </p>
     <p> Backend: <i> Java, Spring Boot, Batch, mensageria (ActiveMQ/Artemis) e Microserviços. </i> </p>
     <p> Dados: <i> Oracle, Redis e Flyway </i> </p>
-    <p> Entrega e versionamento: <i> Git / Azure Devops / CICD </i> </p>
+    <p> Entrega e versionamento: <i> Git / Azure Devops/Pipeline </i> </p>
     <p> Cloud: <i> AWS (S3, ECS, EC2, RDS, SM) </i> </p>
     <p> Fundamentos e frameworks: Scrum, CleanCode, Patterns, Multithreading, Caching</p>
      
