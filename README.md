@@ -1,30 +1,41 @@
-<h2> Olá, seja bem vindx! :handshake:	
-  
-  <h3> :bricks: Formação: </h3>
-  <p> Sou graduado em Tecnologia da Automação pela Fatec. Onde tive a oportunidade de conhecer um pouco de Assembly, Ladder e C.</p>
-  <p> Formação Fullstack Java e Angular pela Digital House. Curso que fui selecionado como bolsista do programa Santander Coders.</p>
-  
-  <h3> :house: Experiência: </h3>
-   <p> Trabalho com TI desde 2004, na área de suporte, troubleshooting e infra. Possuo bons conhecimentos em sistemas operacionais Windows, Linux e conhecimento básico de Unix (FreeBSD). Atuei em ambientes virtualizados e com a utilização de contêineres. Também possuo experiência em hardware, mais precisamente robótica e eletrônica. IoT com raspberry, arduíno e com uso de sensores analógicos e digitais. </p>
-   <p> No momento, estou atuando como desenvolvedor backend nas seguintes tecnologias: </p>
-    <p> Backend: <i> Java, Spring Boot, Batch, mensageria (ActiveMQ/Artemis) e Microserviços. </i> </p>
-    <p> Dados: <i> Oracle, Redis e Flyway </i> </p>
-    <p> Entrega e versionamento: <i> Git / Azure Devops/Pipeline </i> </p>
-    <p> Cloud: <i> AWS (S3, ECS, EC2, RDS, SM) </i> </p>
-    <p> Fundamentos e frameworks: Scrum, CleanCode, Patterns, Multithreading, Caching</p>
-     
-   <h3>:rocket: Interesses:</h3>
-    <p> Gosto muito de tecnologia. Meus temas favoritos são: Desenvolvimento, redes, segurança, eletrônica e IoT.</p>
-    <p> Mas também gosto de ler sobre muitas outras coisas. Meus autores preferidos são: Richard Dawkins, Yuval Harari , Steven Pinker e Daniel Kahneman.    </p>
-    
-  
-   <h3>:coffee: Contato:</h3>
-    <p> rodrigo.bertini@gmail.com  </p>
-    <p> https://www.linkedin.com/in/rodrigo-bertini-andriani/ </p>
+# Welcome! :handshake:
+
+## :bricks: Education:
+I hold a degree in Automation Engineering from Fatec (Faculdade de Tecnologia de São Paulo), where I gained knowledge in Assembly, Ladder, and C programming languages. 
+Additionally, I completed a Fullstack Java and Angular program at Digital House, where I was selected as a scholarship recipient for the Santander Coders program.
+
+## :house: Experience:
+I've been working in IT since 1998, specializing in support, troubleshooting, and infrastructure. My expertise extends to operating systems such as Windows and Unix/Linux, with experience in virtualized environments and container usage. 
+I also have hands-on experience in hardware, specifically in robotics and electronics, including IoT with Raspberry Pi, Arduino, and the use of analog and digital sensors.
+
+I am currently employed as an advanced backend developer, and my extensive background encompasses proficiency in various technologies:
+
+- **Languages:** Java, Kotlin, JavaScript, Python, Shell Script
+- **Databases:** Oracle PL-SQL, MySQL, DynamoDB, MongoDB, Redis
+- **Version Control:** Git, Flyway (DB)
+- **CI/CD + Cloud:** Azure Pipeline, Jenkins, AWS, GCP
+- **Brokers:** ActiveMQ/Artemis, Kafka
+- **Agile:** Scrum, Kanban
+- **Testing:** jUnit, Mockito, TestContainer, jMeter
+- **Api Security** Owasp, JWT, Oauth, Spring Security
+- **Patterns and Principles:** Object-Oriented Programming (OO), SOLID, Composition, Dry, Kiss, Yagni, Clean Code
+- **Network:** Cisco, Mikrotik
+- **AI:** Prompt Engineering
+- **Others:** Kubernetes (k8s), Docker, ElasticSearch, LocalStack, Postman, Maven, Gradle
+- **Architecture:** Monoliths, Microservices, Serveless, Hexagonal, EDA
+
+## :rocket: Interests:
+I am passionate about technology, with a particular focus on development. 
+I also have knowledge in AI, networks, security, electronics, and IoT. 
+In addition, I enjoy reading about a variety of topics, with favorite authors including Richard Dawkins, Yuval Harari, and Steven Pinker.
+
+## :coffee: Contact
+#### rodrigo.bertini@gmail.com
+#### https://www.linkedin.com/in/rodrigo-bertini
     
     
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodx64&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodx64&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
   
