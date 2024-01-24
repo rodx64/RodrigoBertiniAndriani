@@ -10,7 +10,7 @@ I also have hands-on experience in hardware, specifically in robotics and electr
 
 I am currently employed as an advanced backend developer, and my extensive background encompasses proficiency in various technologies:
 
-- **Languages:** Java, Kotlin, JavaScript, Python, Shell Script
+- **Languages/Frameworks:** Java, Kotlin, JavaScript, Python, Shell Script, Spring, React, Angular
 - **Databases:** Oracle PL-SQL, MySQL, DynamoDB, MongoDB, Redis
 - **Version Control:** Git, Flyway (DB)
 - **CI/CD + Cloud:** Azure Pipeline, Jenkins, AWS, GCP
@@ -18,7 +18,7 @@ I am currently employed as an advanced backend developer, and my extensive backg
 - **Agile:** Scrum, Kanban
 - **Testing:** jUnit, Mockito, TestContainer, jMeter
 - **Api Security** Owasp, JWT, Oauth, Spring Security
-- **Patterns and Principles:** Object-Oriented Programming (OO), SOLID, Composition, Dry, Kiss, Yagni, Clean Code
+- **Patterns and Principles:** Object-Oriented Programming (OO), GoF Patterns, SOLID, Composition, Dry, Kiss, Yagni, Clean Code
 - **Network:** Cisco, Mikrotik
 - **AI:** Prompt Engineering
 - **Others:** Kubernetes (k8s), Docker, ElasticSearch, LocalStack, Postman, Maven, Gradle
