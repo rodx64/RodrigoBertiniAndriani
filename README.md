@@ -14,9 +14,9 @@ I am currently employed as an advanced backend developer, and my extensive backg
 - **Databases:** Oracle PL-SQL, MySQL, DynamoDB, MongoDB, Redis
 - **Version Control:** Git, Flyway (DB)
 - **CI/CD + Cloud:** Azure Pipeline, Jenkins, AWS, GCP
-- **Brokers:** ActiveMQ/Artemis, Kafka
+- **Message:** ActiveMQ/Artemis, Kafka, Kafka Streams
 - **Agile:** Scrum, Kanban
-- **Testing:** jUnit, Mockito, TestContainer, jMeter
+- **Testing:** jUnit, Mockito, TestContainer, jMeter, Kotest, Wiremock, Cucumber
 - **Api Security** Owasp, JWT, Oauth, Spring Security
 - **Patterns and Principles:** Object-Oriented Programming (OO), GoF Patterns, SOLID, Composition, Dry, Kiss, Yagni, Clean Code
 - **Network:** Cisco, Mikrotik
